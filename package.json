@@ -1,7 +1,0 @@
-{
-  "name": "sophie-api",
-  "type": "module",
-  "dependencies": {
-    "openai": "^4.20.0"
-  }
-}
